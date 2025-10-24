@@ -24,4 +24,4 @@
 - Validate date columns are set to Date type for proper time intelligence.
 
 ## License
-- No license specified. Add one if required.
+- No license.
